@@ -37,30 +37,40 @@ Examples of my Data Structures and Algorithms
 * [ ] some-recursive
 * [ ] stringify-numbers
 
-Recursion
-Searching Algorithms
-Binary Search
-Linear Search
-Naive String Search
-Knuth–Morris–Pratt Algorithm
-Sorting Algorithms
-Bubble Sort
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Radix Sort
-Data Structures
-Singly Linked List
-Doubly Linked List
-Stack
-Queue
-Binary Search Tree
-Binary Heap
-Priority Queue
-Hash Table
-Graph
-Trie
-Dynamic Programming
-Other algorithms
-Factorial of large number
+## Section 9 - Recursion Problems Bonus
+* [ ] 
+
+## Section 10 - Searching Algorithms
+* [ ] Binary Search
+* [ ] Linear Search
+* [ ] Naive String Search
+* [ ] Knuth–Morris–Pratt Algorithm
+
+## Sections 11-17 - Sorting Algorithms
+* [ ] Bubble Sort
+* [ ] Selection Sort
+* [ ] Insertion Sort
+* [ ] Merge Sort
+* [ ] Quick Sort
+* [ ] Radix Sort
+
+## Section 18-28 - Data Structures
+* [ ] Singly Linked List
+* [ ] Doubly Linked List
+* [ ] Stack
+* [ ] Queue
+* [ ] Binary Search Tree
+* [ ] Tree Traversal
+* [ ] Binary Heap
+* [ ] Priority Queue
+* [ ] Hash Tables
+* [ ] Graph
+* [ ] Graph Traversal
+* [ ] Trie
+* [ ] Dijkstra's Algorithm
+
+## Section 29 - Dynamic Programming
+* [ ] 
+
+## Section 30 - Wild West
+* [ ] 
